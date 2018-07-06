@@ -1,0 +1,2 @@
+ruby = true
+puts ruby?
